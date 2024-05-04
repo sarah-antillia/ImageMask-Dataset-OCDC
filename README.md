@@ -58,7 +58,7 @@ Please movde the downloaded files under <b>ImageMask-Dataset-OCDC</b> directory,
  └─training
 </pre>
 
-The testing and training folder contains image and mask png files for testing and training respectively.<br>
+The testing and training folders contain image and mask png files for testing and training respectively.<br>
 
 <h3>3. Generate master dataset </h3>
 Please run the following commnad for Python script <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenetator.py</a> to generate
