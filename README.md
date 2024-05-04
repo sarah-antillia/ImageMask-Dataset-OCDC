@@ -96,7 +96,7 @@ Please run the following command for Python script <a href="./copy_test.py">copy
 <pre>
 >python copy_test.py
 </pre>
-, by wich OCDC-test folder is copied to OCDC-ImageMask-Dataset-V1.<br>
+, by wich OCDC-test folder will be copied to OCDC-ImageMask-Dataset-V1.<br>
 
 <hr>
 Train images sample<br>
