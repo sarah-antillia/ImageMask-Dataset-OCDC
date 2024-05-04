@@ -46,7 +46,7 @@ Mendeley Data, V1, doi: 10.17632/9bsc36jyrt.1
 Please see also:<a href="./MendeleyData_OCDC_2022.pdf">MendeleyData_OCDC_2022.pdf</a>
 <br>
 
-<h3>2. Download (OCDC)dataset </h3>
+<h3>2. Download OCDC dataset </h3>
 If you would like to generate your own dataset, please download the original one from 
 the following <a href="https://data.mendeley.com/datasets/9bsc36jyrt/1">
 Mendeley Data<br>
