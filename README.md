@@ -66,7 +66,7 @@ images and masks jgp files.<br>
 <pre>
 >python ImageMaskDatasetGenerator.py 
 </pre>
-, by which <b>OCDC-master</b> datatset will created by flipping, rotating, and distorting image augmentation processings.<br>
+, by which <b>OCDC-master</b> datatset will be created by flipping, rotating, and distorting image augmentation processings.<br>
 <pre>
 ./OCDC-master
   ├─images
