@@ -26,7 +26,7 @@ Mask
 <hr>
 
 <br>
-You can download our augmented dataset generated here from the google drive 
+You can download our augmented 640x640 jpg dataset generated here from the google drive 
 <a href="https://drive.google.com/file/d/1vhCpb8V5vnBwNRKGk6HhFjpoUFOg2laX/view?usp=sharing">OCDC-ImageMask-Dataset-V1.zip</a>.
 <br>
 
@@ -51,9 +51,9 @@ If you would like to generate your own dataset by yourself, please download the 
 the following <a href="https://data.mendeley.com/datasets/9bsc36jyrt/1">
 Mendeley Data<br>
 H&E-stained oral squamous cell carcinoma histological images dataset</a>.<br>
-Please movde the downloaded files under <b>ImageMask-Dataset-OCDC</b> directory, 
+Please move the downloaded files under <b>ImageMask-Dataset-OCDC</b> directory, 
 <pre>
-./
+./ImageMask-Dataset-OCDC
  ├─testing
  └─training
 </pre>
@@ -61,7 +61,7 @@ Please movde the downloaded files under <b>ImageMask-Dataset-OCDC</b> directory,
 The testing and training folders contain image and mask png files for testing and training respectively.<br>
 
 <h3>3. Generate master dataset </h3>
-Please run the following commnad for Python script <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenetator.py</a> to generate
+Please move to <b> <b>ImageMask-Dataset-OCDC</b> direcotory, and run the following commnad for Python script <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenetator.py</a> to generate
 images and masks jgp files.<br>
 <pre>
 >python ImageMaskDatasetGenerator.py 
